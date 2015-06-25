@@ -1,0 +1,4 @@
+[package]
+name = "huss"
+version = "0.1.0"
+authors = ["Zdenek Sejcek <zdenek@sejcek.cz>"]
